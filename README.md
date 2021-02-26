@@ -7,6 +7,7 @@
 
 Reject [996](https://996.icu/#/en_US), WLB only.
 
+![madneal's github stats](https://github-readme-stats.vercel.app/api?username=flycash&show_icons=true&theme=radical)
 
 
 <!--
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with cloud native
 
 -->
-https://github-readme-stats.vercel.app/api?username=flycash&show_icons=true&theme=radical
